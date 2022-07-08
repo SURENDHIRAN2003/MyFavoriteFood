@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+}
+body{
+    background-color: lightgray;
+}
+#titleImage{
+    width: 1300px;
+    height: 600px;
+    padding-top: 30px;
+    padding-left: -300px;
+    margin-right: 720px;
+}
+#name1{
+    position: absolute;
+    padding-left: 300px;
+    transform: translate(200px,-350px);
+    font-size: 30px;
+}
+#color{
+    margin-right: 170px;
+}
+#food1{
+    background-color: orange;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+#food2{
+    margin:2px;
+    background-color: violet;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#food3{
+    margin: 2px;
+    background-color: cyan;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    font-size: 10px;
+}
+.image{
+    padding-left: -20px;
+    width: 300px;
+    height: 300px;
+    padding: 1px;
+    border: 1px solid white;
+}
+
